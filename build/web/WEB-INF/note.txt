@@ -1,0 +1,2 @@
+Lab3 finished
+I finished Lab3.I learned about JavaBeans,Jsps,EL and servlet routing.
